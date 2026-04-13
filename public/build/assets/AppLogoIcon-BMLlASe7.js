@@ -1,0 +1,1 @@
+import{C as e,D as t,F as n,V as r}from"./dist-Dcv2OqQx.js";var i=t({inheritAttrs:!1,__name:`AppLogoIcon`,props:{className:{type:[Boolean,null,String,Object,Array]}},setup(t){let i=t;return(t,a)=>(r(),e(`img`,n({src:`/isf_logo.png`,alt:`ISF Logo`,class:i.className},t.$attrs),null,16))}});export{i as t};
